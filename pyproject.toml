@@ -12,6 +12,7 @@ dependencies = [
 [dependency-groups]
 test = [
     "hyperrouter_testutils",
+    "pytest>=9.0.1",
 ]
 
 lint = [
