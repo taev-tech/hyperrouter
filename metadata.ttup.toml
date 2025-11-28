@@ -1,0 +1,3 @@
+package_name = "hyperrouter"
+package_desc = "A performant rules-based routing engine, especially (but not necessarily exclusively) for http(s)"
+min_python_version = "3.12"

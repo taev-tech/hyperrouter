@@ -1,0 +1,5 @@
+> hyperrouter
+__doc_meta__: true
+description: 'A performant rules-based routing engine, especially (but not necessarily exclusively) for http(s)'
+<
+
